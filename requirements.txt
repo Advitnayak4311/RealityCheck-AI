@@ -1,0 +1,8 @@
+streamlit
+numpy
+scikit-learn
+joblib
+pickle-mixin
+opencv-python-headless
+Pillow
+matplotlib
